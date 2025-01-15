@@ -1,1 +1,6 @@
-some text that conflicts with what we added for references.md in the main branch.
+my-resume
+
+# References
+
+* octocat 1 😈
+main
